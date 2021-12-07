@@ -20,7 +20,9 @@
             android:exported="false" />
         <activity
             android:name=".FilterActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.PickAFood" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
