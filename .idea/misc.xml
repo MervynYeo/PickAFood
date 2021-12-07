@@ -5,9 +5,13 @@
       <map>
         <entry key="..\:/Users/Mervyn.LAPTOP-JS75MJCH/MonashHackathon2021/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/Mervyn.LAPTOP-JS75MJCH/MonashHackathon2021/app/src/main/res/layout/activity_main2.xml" value="0.16666666666666666" />
+        <entry key="app/src/main/res/layout/activity_log_in.xml" value="0.16210739614994935" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1" />
       </map>
     </option>
   </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
