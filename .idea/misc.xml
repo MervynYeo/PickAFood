@@ -7,7 +7,13 @@
         <entry key="..\:/Users/Mervyn.LAPTOP-JS75MJCH/MonashHackathon2021/app/src/main/res/layout/activity_log_in.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/Mervyn.LAPTOP-JS75MJCH/MonashHackathon2021/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
         <entry key="..\:/Users/Mervyn.LAPTOP-JS75MJCH/MonashHackathon2021/app/src/main/res/layout/activity_main2.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/Mervyn.LAPTOP-JS75MJCH/MonashHackathon2021/app/src/main/res/layout/activity_restaurant.xml" value="0.17552083333333332" />
+        <entry key="app/src/main/res/layout/activity_filter.xml" value="0.23418431205114862" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.16210739614994935" />
+        <entry key="app/src/main/res/layout/activity_log_in.xml" value="0.24434676926365975" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_restaurant.xml" value="0.16210739614994935" />
+        <entry key="app/src/main/res/menu/top_app_bar.xml" value="0.2564814814814815" />
       </map>
     </option>
   </component>
