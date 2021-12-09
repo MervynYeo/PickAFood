@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void openFilter(){
-        Intent intent= new Intent(this, FilterActivity.class);
+        Intent intent= new Intent(this, RestaurantActivity.class);
         startActivity(intent);
     }
 }
